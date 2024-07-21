@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
  # Düzenleme
- -Yeni brancthe düzenleme yapıldı.
+ -Yeni branch düzenleme yapıldı.
