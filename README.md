@@ -1,1 +1,1 @@
-echo #Github ilk repo
+# Github ilk repo
