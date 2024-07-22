@@ -18,6 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
      <h1> Hello World</h1>
+     <p>Archi's Academy </p>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam praesentium culpa mollitia ut deserunt quos id necessitatibus ratione nesciunt, iusto impedit fuga voluptatibus iste, nemo itaque earum corrupti laborum sit?</p>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
